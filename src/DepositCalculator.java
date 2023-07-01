@@ -1,3 +1,5 @@
+//Проверил. Замчаний по коду нет.
+
 import java.util.Scanner;
 
 public class DepositCalculator {
